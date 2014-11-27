@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="MW.Samples.Panorama">
+	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="19" />
+	<application android:label="MW.Samples.Panorama" android:icon="@drawable/Icon"></application>
+</manifest>
